@@ -25,11 +25,11 @@ Para executar os codigos atraves da linha de comando, siga os passos abaixo:
 1. Abra o terminal no diretorio raiz onde o arquivo `.java` esta localizado.
 2. Compile o codigo-fonte utilizando o comando:
    ```bash
-   javac NomeDoArquivo.java
+   javac exercicio13_java.java
    ```
 3. Execute o programa compilado com o comando:
    ```bash
-   java NomeDoArquivo
+   java exercicio13_java
    ```
 
 ## Historico Academico
